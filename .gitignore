@@ -1,0 +1,10 @@
+*.log
+build/
+.vscode/
+.DS_Store
+*.tmp
+/TODO
+docs/*.pdf
+*.secret
+*.a
+!lib.a
